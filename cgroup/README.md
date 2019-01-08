@@ -5,7 +5,7 @@
 golang 执行 cmd.Start 相当于fork了一个子进程
 
 ## pstree
-![pstree](https://github.com/wadeling/dockerpractice/blob/master/cgroup/images/pstre.png)
+![pstree](https://github.com/wadeling/dockerpractice/blob/master/cgroup/images/pstree.png)
 stress 有两个进程，一个是strees本身进程，另外一个是strees -m 1参数生成的子进程
 
 ## tasks 
